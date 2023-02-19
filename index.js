@@ -28,7 +28,7 @@ for (let i = 1; i <= num; i++) { // a for loop iterating from 1 up to the number
     pwr.push(note);              // appends each power after every iteration to the pwr list
 }
 
-let closest = pwr[0];            // variable to keep track of the closest power of 2 nearest to the number of interest 
+let closest = pwr[0];            // variable to keep track of the closest power of 2 nearest to the number of interest
 
 for (x of pwr) {
     if (Math.abs(x - num) < Math.abs(closest - num)) {
