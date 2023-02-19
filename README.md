@@ -3,6 +3,7 @@
 ## Task 1
 
 Symbols:
+
 Arithmetic Operators - The arithmetic operators are used to perform common arithmetical operations, such as addition, subtraction, multiplication (+ , -, *, /, %).
 
 Assignment Operators - The assignment operators are used to assign values to variables (=, +=, -=, *=, /=, %=).
@@ -16,21 +17,38 @@ Bitwise Operators - They are used to perform operation on bits (&, |, ^, ~, <<, 
 ## Task 2
 
 Examples:
+
 Arithmetic Operators:
-* ex: let x = 10; y = 4
+* ex: let x = 10; y = 4;
 * console.log(x + y);
+* console.log(x - y);
 
-Assignment Operators: 
-Comparison Operators
-Logical Operators
-Bitwise Operators
+Assignment Operators:
+* ex: let x = 10;
+* console.log(x);
+* console.log(x += 5);
 
+Comparison Operators:
+* ex: let x = 10; y = 4;
+* console.log(x != y);
+* console.log(x === y);
+
+Logical Operators:
+* ex: let highIncome = true; goodCreditScore = false;
+* console.log(highIncome || goodCreditScore);
+* console.log(highIncome && goodCreditScore);
+
+Bitwise Operators:
+* ex: let x = 5; y = 1;
+* console.log(5 & 1);
+* console.log(5 | 1);
 
 ## Task 4
 
 for (let i=1; i< 20; i+=7){
     console.log(i);
 }
+
 Output:
 1
 8
