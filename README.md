@@ -8,7 +8,7 @@ Arithmetic Operators - The arithmetic operators are used to perform common arith
 
 Assignment Operators - The assignment operators are used to assign values to variables (=, +=, -=, *=, /=, %=).
 
-Comparison Operators - The comparison operators are used to compare two values in a Boolean fashion (==, ===, !=, !==, <, >, >=, <=)
+Comparison Operators - The comparison operators are used to compare two values in a Boolean fashion (==, ===, !=, !==, <, >, >=, <=).
 
 Logical Operators - The logical operators are typically used to combine conditional statements (&&, ||, !).
 
